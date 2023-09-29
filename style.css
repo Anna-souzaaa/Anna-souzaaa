@@ -1,0 +1,35 @@
+
+.educacao_e_qualidade {
+    background: url("/foto2.jpeg");
+    height: 100vh; ;
+    width: 100vw;
+    color:black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+
+}
+button{
+    width: 300px;
+height: 50px;
+background:white;
+color: black;
+text-transform: uppercase;
+border-color: black;
+transition: 1s ease-in-out;
+}
+
+button:hover {
+    background:white;
+    color: aliceblue;
+    
+
+}
+.tema{text-align:center; }
+.tema2{text-align:center;}
+.tema3{text-align:center ;}
